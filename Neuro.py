@@ -15,7 +15,6 @@ from sklearn.metrics import precision_recall_fscore_support, roc_curve, auc, \
 from imblearn.metrics import sensitivity_specificity_support
 from sklearn import metrics
 
-
 data = []
 labels = []
 
