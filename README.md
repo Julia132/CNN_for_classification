@@ -21,5 +21,5 @@ plt.show()
 #### with neomlasms 
 ![МОЗГИИИ](https://sun9-51.userapi.com/c858032/v858032820/177c64/CERX85xTGlg.jpg)
 
-## Trainin loss and Accuracy in process of training
+## Training loss and Accuracy in process of training
 ![ГРАФИК](https://sun9-41.userapi.com/c858032/v858032820/177c75/xvKCem7O-ug.jpg)
